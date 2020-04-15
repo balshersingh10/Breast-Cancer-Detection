@@ -1,5 +1,5 @@
 # Prediction of Breast Cancer Using Supervised Machine Learning Techniques
-We obtained the breast cancer dataset from UCI repository and used spyder as the platform for the purpose of coding. Our methodology involves use of classification techniques like Support Vector Machine (SVM) and K-Nearest Neighbor (K-NN).
+We obtained the breast cancer dataset from UCI repository and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of classification techniques like Support Vector Machine (SVM) and K-Nearest Neighbor (K-NN).
 ## A. Feature Selection
 Feature selection is finding the subset of original features by different approaches based on the information they provide, accuracy, prediction errors.
 The features used in the project are:
