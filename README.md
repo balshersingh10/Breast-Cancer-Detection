@@ -1,3 +1,4 @@
+![Breast Cancer Detection](https://miro.medium.com/max/770/0*HFx1Rpoabh5lOAQj.jpg)
 # Prediction of Breast Cancer Using Supervised Machine Learning Techniques
 We obtained the breast cancer dataset from UCI repository and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of classification techniques like Support Vector Machine (SVM) and K-Nearest Neighbor (K-NN).
 ## A. Feature Selection
